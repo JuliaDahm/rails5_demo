@@ -1,0 +1,1 @@
+App.room.speak("Hello ActionCable!");
